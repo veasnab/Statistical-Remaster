@@ -1,2 +1,2 @@
-# **Statistical Remaster** 🚀
-A Personal Project for Re-mastering Statistical Concepts with Python
+# **Statistics Remaster** 🚀
+A Personal Project for Re-mastering Statistics with Python via Jupyter Notebook
